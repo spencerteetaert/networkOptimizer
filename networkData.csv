@@ -1,0 +1,16 @@
+Tower,1,Load,0,DataCenterConnection,1000,TowerConnection,2,250,TowerConnection,3,200,TowerConnection,4,150,x,,,,
+Tower,2,Load,68,TowerConnection,1,250,TowerConnection,5,350,TowerConnection,6,150,x,,,,,,
+Tower,3,Load,23,TowerConnection,1,200,TowerConnection,5,150,x,,,,,,,,,
+Tower,4,Load,26,TowerConnection,1,150,TowerConnection,5,200,TowerConnection,9,150,x,,,,,,
+Tower,5,Load,55,TowerConnection,2,350,TowerConnection,3,150,TowerConnection,4,200,TowerConnection,6,300,TowerConnection,8,150,x
+Tower,6,Load,27,TowerConnection,2,150,TowerConnection,5,300,TowerConnection,7,200,x,,,,,,
+Tower,7,Load,30,TowerConnection,6,200,TowerConnection,8,50,TowerConnection,14,150,x,,,,,,
+Tower,8,Load,41,TowerConnection,5,150,TowerConnection,9,200,TowerConnection,13,150,TowerConnection,7,50,TowerConnection,10,200,x
+Tower,9,Load,22,TowerConnection,4,150,TowerConnection,8,200,x,,,,,,,,,
+Tower,10,Load,26,TowerConnection,8,200,TowerConnection,11,250,x,,,,,,,,,
+Tower,11,Load,45,TowerConnection,10,250,TowerConnection,12,250,x,,,,,,,,,
+Tower,12,Load,38,TowerConnection,11,250,TowerConnection,13,50,x,,,,,,,,,
+Tower,13,Load,24,TowerConnection,8,150,TowerConnection,12,50,x,,,,,,,,,
+Tower,14,Load,75,TowerConnection,7,150,x,,,,,,50,,,,,,
+Tower,15,Load,12,TowerConnection,16,100,x,,,,,,113,,,,,,
+Tower,16,Load,42,TowerConnection,15,100,x,,,,,,-13,,,,,,
