@@ -11,7 +11,7 @@ is to try to keep the load on any given connection as low as possible, and have 
 in data usage. The network health is the fitness variable that determines whether a given evolution of the network survives or not. 
 
 ### Algorithm
-The algorithm I uses graph theory to find the shortest possible path between nodes. The difficulty with this program is measuring the weight
+The algorithm uses graph theory to find the shortest possible path between nodes. The difficulty with this program is measuring the weight
 of a given connection. Because connections that are near fully loaded should not ever be choosen I needed to weight the connections 
 base on their remaining bandwidth. Unfortunately it is impossible to know the remiaining bandwidth without first knowing the path. This puts
 us in a catch 22. Like my civil engineering professor always says: "To find the answer you must know the answer". 
