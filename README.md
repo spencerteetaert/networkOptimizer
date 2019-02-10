@@ -12,8 +12,8 @@ in data usage. The network health is the fitness variable that determines whethe
 
 ### Algorithm
 The algorithm uses graph theory to find the shortest possible path between nodes. The difficulty with this program is measuring the weight
-of a given connection. Because connections that are near fully loaded should not ever be choosen I needed to weight the connections 
-base on their remaining bandwidth. Unfortunately it is impossible to know the remiaining bandwidth without first knowing the path. This puts
+of a given connection. Because connections that are near fully loaded should not ever be chosen I needed to weight the connections 
+base on their remaining bandwidth. Unfortunately it is impossible to know the remaining bandwidth without first knowing the path. This puts
 us in a catch 22. Like my civil engineering professor always says: "To find the answer you must know the answer". 
 
 So how did I tackle this?
@@ -37,3 +37,7 @@ Currently I am working with my linear algebra professor to modify Google's PageR
 does work but does not guarantee the best outcome, as well, as bigger networks are run through the evolution version sucks up a lot
 of processing power. My hope is that if properly manipulated, the PageRank algorithm will hold the key to solving the optimal solution
 to this problem. It should also greatly reduce the load on the CPU running the program. 
+ 
+
+ 
+
